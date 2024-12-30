@@ -1,0 +1,1 @@
+Inspired by (camb-dict)[https://github.com/twlite/camb-dict].
