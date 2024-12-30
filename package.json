@@ -1,6 +1,6 @@
 {
   "name": "@perqueza72/cambridge-dictionary-scraper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A web scraper project to retrieve meanings and pronunciations from the Cambridge Dictionary.",
   "keywords": ["english", "cambridge dictionary", "scraper"],
   "homepage": "https://github.com/perqueza72/cambridge-dictionary-scraper#readme",
