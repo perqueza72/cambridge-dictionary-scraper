@@ -4,7 +4,7 @@ package that allows you to scrape the meaning and pronunciation of words from th
 
 In the examples folder you can see how to use this library. Here is an example:
 
-```
+```js
 import DictionaryScraper from "../dictionary-scraper";
 
 const dictionary = new DictionaryScraper()
